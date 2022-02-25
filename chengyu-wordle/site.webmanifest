@@ -1,0 +1,17 @@
+{
+  "name": "Chengyu Wordle",
+  "short_name": "Chengyu Wordle",
+  "description": " Wordle, for Cha Chaan Teng Food",
+  "background_color": "green",
+  "theme_color": "green",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["Cha Chaan Teng", "chinese", "wordle", "game"]
+}
