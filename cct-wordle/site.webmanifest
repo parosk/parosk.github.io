@@ -1,7 +1,7 @@
 {
   "name": "Chengyu Wordle",
   "short_name": "Chengyu Wordle",
-  "description": " Wordle, for Chinese idioms - 成语 (chéngyǔ)",
+  "description": " Wordle, for Cha Chaan Teng Food",
   "background_color": "green",
   "theme_color": "green",
   "start_url": "./",
@@ -13,5 +13,5 @@
       "type": "image/png"
     }
   ],
-  "categories": ["chengyu", "chinese", "idiom", "wordle", "game"]
+  "categories": ["Cha Chaan Teng", "chinese", "food", "wordle", "game"]
 }
